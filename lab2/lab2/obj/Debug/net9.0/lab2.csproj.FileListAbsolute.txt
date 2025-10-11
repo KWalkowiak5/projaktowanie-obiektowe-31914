@@ -1,0 +1,5 @@
+C:\Users\kwalkow9\projaktowanie-obiektowe-31914\lab2\lab2\obj\Debug\net9.0\lab2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kwalkow9\projaktowanie-obiektowe-31914\lab2\lab2\obj\Debug\net9.0\lab2.AssemblyInfoInputs.cache
+C:\Users\kwalkow9\projaktowanie-obiektowe-31914\lab2\lab2\obj\Debug\net9.0\lab2.AssemblyInfo.cs
+C:\Users\kwalkow9\projaktowanie-obiektowe-31914\lab2\lab2\obj\Debug\net9.0\lab2.csproj.CoreCompileInputs.cache
+C:\Users\kwalkow9\projaktowanie-obiektowe-31914\lab2\lab2\obj\Debug\net9.0\lab2.sourcelink.json
