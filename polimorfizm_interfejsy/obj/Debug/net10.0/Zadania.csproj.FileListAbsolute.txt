@@ -1,0 +1,14 @@
+C:\Users\kw_wa\Desktop\polimorfizm_interfejsy\bin\Debug\net10.0\Zadania.exe
+C:\Users\kw_wa\Desktop\polimorfizm_interfejsy\bin\Debug\net10.0\Zadania.deps.json
+C:\Users\kw_wa\Desktop\polimorfizm_interfejsy\bin\Debug\net10.0\Zadania.runtimeconfig.json
+C:\Users\kw_wa\Desktop\polimorfizm_interfejsy\bin\Debug\net10.0\Zadania.dll
+C:\Users\kw_wa\Desktop\polimorfizm_interfejsy\bin\Debug\net10.0\Zadania.pdb
+C:\Users\kw_wa\Desktop\polimorfizm_interfejsy\obj\Debug\net10.0\Zadania.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kw_wa\Desktop\polimorfizm_interfejsy\obj\Debug\net10.0\Zadania.AssemblyInfoInputs.cache
+C:\Users\kw_wa\Desktop\polimorfizm_interfejsy\obj\Debug\net10.0\Zadania.AssemblyInfo.cs
+C:\Users\kw_wa\Desktop\polimorfizm_interfejsy\obj\Debug\net10.0\Zadania.csproj.CoreCompileInputs.cache
+C:\Users\kw_wa\Desktop\polimorfizm_interfejsy\obj\Debug\net10.0\Zadania.dll
+C:\Users\kw_wa\Desktop\polimorfizm_interfejsy\obj\Debug\net10.0\refint\Zadania.dll
+C:\Users\kw_wa\Desktop\polimorfizm_interfejsy\obj\Debug\net10.0\Zadania.pdb
+C:\Users\kw_wa\Desktop\polimorfizm_interfejsy\obj\Debug\net10.0\Zadania.genruntimeconfig.cache
+C:\Users\kw_wa\Desktop\polimorfizm_interfejsy\obj\Debug\net10.0\ref\Zadania.dll

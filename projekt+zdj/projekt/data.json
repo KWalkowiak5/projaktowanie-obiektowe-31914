@@ -1,0 +1,20 @@
+{
+  "Rooms": [
+    {
+      "RoomNumber": 101,
+      "PricePerNight": 200,
+      "Status": 0
+    },
+    {
+      "RoomNumber": 102,
+      "PricePerNight": 220,
+      "Status": 0
+    },
+    {
+      "RoomNumber": 201,
+      "PricePerNight": 450,
+      "Status": 0
+    }
+  ],
+  "Reservations": []
+}

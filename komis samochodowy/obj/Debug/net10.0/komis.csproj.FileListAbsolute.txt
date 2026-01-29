@@ -1,0 +1,14 @@
+C:\Users\kw_wa\Desktop\komis samochodowy\bin\Debug\net10.0\komis.exe
+C:\Users\kw_wa\Desktop\komis samochodowy\bin\Debug\net10.0\komis.deps.json
+C:\Users\kw_wa\Desktop\komis samochodowy\bin\Debug\net10.0\komis.runtimeconfig.json
+C:\Users\kw_wa\Desktop\komis samochodowy\bin\Debug\net10.0\komis.dll
+C:\Users\kw_wa\Desktop\komis samochodowy\bin\Debug\net10.0\komis.pdb
+C:\Users\kw_wa\Desktop\komis samochodowy\obj\Debug\net10.0\komis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kw_wa\Desktop\komis samochodowy\obj\Debug\net10.0\komis.AssemblyInfoInputs.cache
+C:\Users\kw_wa\Desktop\komis samochodowy\obj\Debug\net10.0\komis.AssemblyInfo.cs
+C:\Users\kw_wa\Desktop\komis samochodowy\obj\Debug\net10.0\komis.csproj.CoreCompileInputs.cache
+C:\Users\kw_wa\Desktop\komis samochodowy\obj\Debug\net10.0\komis.dll
+C:\Users\kw_wa\Desktop\komis samochodowy\obj\Debug\net10.0\refint\komis.dll
+C:\Users\kw_wa\Desktop\komis samochodowy\obj\Debug\net10.0\komis.pdb
+C:\Users\kw_wa\Desktop\komis samochodowy\obj\Debug\net10.0\komis.genruntimeconfig.cache
+C:\Users\kw_wa\Desktop\komis samochodowy\obj\Debug\net10.0\ref\komis.dll
